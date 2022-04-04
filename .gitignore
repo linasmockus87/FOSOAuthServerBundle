@@ -1,0 +1,11 @@
+phpunit.xml
+Tests/autoload.php
+vendor/
+Propel/om/
+Propel/map/
+composer.lock
+.php_cs.cache
+.idea
+.github
+.php_cs.dist
+.travis.yml
